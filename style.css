@@ -1,0 +1,12 @@
+div {
+    background-color: rgb(77, 163, 136);
+}
+
+#redDiv{
+    color:red;
+}
+
+.heading{
+    font-family: cursive; font-weight:500; color:green;
+}
+
